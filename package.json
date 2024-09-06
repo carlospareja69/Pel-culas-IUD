@@ -12,7 +12,7 @@
     "genero",
     "autor"
   ],
-  "author": "Juan Gabriel Pineda Mora",
+  "author": "Carlos Andrés Pareja Osorno",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
